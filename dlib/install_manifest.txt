@@ -1,0 +1,3 @@
+/usr/local/bin/imglab
+/usr/local/bin/convert_imglab_paths_to_relative
+/usr/local/bin/copy_imglab_dataset

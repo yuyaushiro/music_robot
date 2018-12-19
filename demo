@@ -1,0 +1,18 @@
+ファンファーレ
+python serial_test.py midi/KantohG/0.mid 1000 -1
+
+ドラゴンクエスト
+python serial_test.py midi/dq_inst/inst_Strings1.mid 1000 -2
+
+マリオ
+python serial_test.py midi/mario/_0.mid 1000 -1
+
+カービィ
+python serial_test.py midi/harukaz/_2.mid 1300 -2
+
+てってってー
+python serial_test.py midi/test_mid.mid 1000 0
+
+ロッキー
+python serial_test.py midi/rocky/brass2.mid 1000 -1
+

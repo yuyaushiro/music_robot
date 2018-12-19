@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='imgae00.png'>
+    <box top='340' left='329' width='62' height='58'/>
+    <box top='350' left='623' width='67' height='58'/>
+    <box top='305' left='919' width='64' height='56'/>
+    <box top='260' left='1207' width='65' height='57'/>
+  </image>
+  <image file='imgae01.png'>
+    <box top='411' left='479' width='57' height='50'/>
+    <box top='447' left='681' width='56' height='50'/>
+    <box top='462' left='885' width='50' height='43'/>
+    <box top='472' left='1080' width='52' height='49'/>
+    <box top='17' left='790' width='48' height='39'/>
+    <box top='2' left='565' width='49' height='41'/>
+    <box top='-3' left='1002' width='48' height='36'/>
+  </image>
+  <image file='imgae02.png'>
+    <box top='67' left='367' width='39' height='36'/>
+    <box top='97' left='532' width='36' height='28'/>
+    <box top='92' left='685' width='32' height='26'/>
+    <box top='86' left='823' width='32' height='29'/>
+    <box top='70' left='981' width='28' height='28'/>
+    <box top='106' left='1098' width='27' height='27'/>
+    <box top='370' left='292' width='41' height='36'/>
+    <box top='402' left='437' width='39' height='35'/>
+    <box top='416' left='574' width='37' height='32'/>
+    <box top='428' left='701' width='35' height='32'/>
+    <box top='454' left='854' width='33' height='31'/>
+    <box top='421' left='961' width='31' height='30'/>
+    <box top='405' left='1062' width='28' height='28'/>
+  </image>
+  <image file='imgae03.png'>
+    <box top='65' left='418' width='45' height='36'/>
+    <box top='104' left='600' width='49' height='33'/>
+    <box top='105' left='821' width='53' height='40'/>
+    <box top='113' left='1067' width='58' height='39'/>
+    <box top='384' left='195' width='47' height='39'/>
+    <box top='461' left='334' width='50' height='42'/>
+    <box top='530' left='504' width='54' height='41'/>
+    <box top='605' left='695' width='62' height='52'/>
+  </image>
+  <image file='imgae04.png'>
+    <box top='232' left='503' width='37' height='34'/>
+    <box top='254' left='673' width='39' height='32'/>
+    <box top='241' left='848' width='38' height='33'/>
+    <box top='228' left='1022' width='40' height='33'/>
+    <box top='199' left='1235' width='42' height='35'/>
+    <box top='543' left='418' width='40' height='34'/>
+    <box top='582' left='556' width='40' height='34'/>
+    <box top='606' left='700' width='38' height='31'/>
+    <box top='626' left='843' width='40' height='36'/>
+    <box top='668' left='1027' width='38' height='35'/>
+    <box top='637' left='1171' width='39' height='37'/>
+  </image>
+  <image file='imgae05.png'>
+    <box top='39' left='716' width='42' height='42'/>
+    <box top='0' left='860' width='41' height='39'/>
+    <box top='0' left='1123' width='36' height='34'/>
+    <box top='482' left='203' width='54' height='45'/>
+    <box top='522' left='393' width='43' height='43'/>
+    <box top='521' left='560' width='45' height='43'/>
+    <box top='473' left='758' width='39' height='41'/>
+    <box top='476' left='902' width='37' height='39'/>
+    <box top='498' left='1004' width='36' height='38'/>
+    <box top='500' left='1099' width='35' height='39'/>
+  </image>
+  <image file='imgae06.png'>
+    <box top='172' left='349' width='35' height='33'/>
+    <box top='145' left='473' width='37' height='32'/>
+    <box top='212' left='717' width='35' height='33'/>
+    <box top='167' left='844' width='34' height='34'/>
+    <box top='136' left='971' width='35' height='33'/>
+    <box top='140' left='1102' width='36' height='33'/>
+    <box top='560' left='336' width='36' height='33'/>
+    <box top='593' left='466' width='33' height='32'/>
+    <box top='597' left='593' width='35' height='32'/>
+    <box top='565' left='756' width='33' height='32'/>
+    <box top='571' left='884' width='36' height='31'/>
+    <box top='591' left='983' width='36' height='34'/>
+    <box top='597' left='1080' width='34' height='34'/>
+  </image>
+  <image file='imgae07.png'>
+    <box top='83' left='327' width='51' height='50'/>
+    <box top='34' left='519' width='59' height='54'/>
+    <box top='151' left='922' width='60' height='56'/>
+    <box top='72' left='1154' width='68' height='61'/>
+    <box top='663' left='324' width='48' height='43'/>
+  </image>
+  <image file='imgae08.png'>
+    <box top='184' left='274' width='48' height='44'/>
+    <box top='146' left='443' width='52' height='48'/>
+    <box top='259' left='796' width='54' height='49'/>
+    <box top='193' left='1000' width='59' height='53'/>
+    <box top='149' left='1221' width='59' height='54'/>
+  </image>
+  <image file='imgae09.png'>
+    <box top='291' left='93' width='65' height='54'/>
+    <box top='390' left='313' width='67' height='54'/>
+    <box top='433' left='560' width='72' height='61'/>
+    <box top='420' left='907' width='70' height='61'/>
+    <box top='468' left='1183' width='77' height='66'/>
+  </image>
+  <image file='imgae10.png'>
+    <box top='180' left='209' width='35' height='35'/>
+    <box top='142' left='332' width='36' height='35'/>
+    <box top='199' left='589' width='37' height='36'/>
+    <box top='142' left='720' width='37' height='36'/>
+    <box top='100' left='858' width='38' height='36'/>
+    <box top='94' left='1003' width='41' height='36'/>
+    <box top='556' left='256' width='31' height='30'/>
+    <box top='582' left='380' width='31' height='28'/>
+    <box top='580' left='500' width='33' height='31'/>
+    <box top='545' left='653' width='32' height='31'/>
+    <box top='545' left='777' width='36' height='31'/>
+    <box top='562' left='876' width='35' height='32'/>
+    <box top='565' left='973' width='35' height='31'/>
+  </image>
+  <image file='imgae11.png'>
+    <box top='175' left='538' width='27' height='25'/>
+    <box top='152' left='663' width='31' height='27'/>
+    <box top='142' left='800' width='31' height='27'/>
+    <box top='159' left='945' width='34' height='29'/>
+    <box top='147' left='1055' width='37' height='28'/>
+    <box top='414' left='363' width='26' height='24'/>
+    <box top='412' left='456' width='29' height='26'/>
+    <box top='517' left='627' width='33' height='29'/>
+    <box top='506' left='746' width='32' height='28'/>
+    <box top='507' left='870' width='34' height='28'/>
+    <box top='541' left='1001' width='39' height='30'/>
+  </image>
+  <image file='imgae12.png'>
+    <box top='166' left='378' width='37' height='30'/>
+    <box top='128' left='537' width='37' height='32'/>
+    <box top='107' left='700' width='36' height='30'/>
+    <box top='115' left='868' width='37' height='31'/>
+    <box top='92' left='985' width='37' height='32'/>
+    <box top='496' left='175' width='38' height='30'/>
+    <box top='476' left='309' width='40' height='33'/>
+    <box top='575' left='559' width='38' height='35'/>
+    <box top='538' left='701' width='40' height='36'/>
+    <box top='519' left='847' width='39' height='35'/>
+    <box top='535' left='997' width='42' height='37'/>
+  </image>
+  <image file='imgae13.png'>
+    <box top='536' left='32' width='57' height='55'/>
+    <box top='424' left='277' width='52' height='50'/>
+    <box top='340' left='509' width='48' height='47'/>
+    <box top='307' left='735' width='46' height='47'/>
+    <box top='248' left='872' width='43' height='46'/>
+  </image>
+  <image file='imgae14.png'>
+    <box top='210' left='455' width='32' height='26'/>
+    <box top='186' left='599' width='33' height='26'/>
+    <box top='174' left='751' width='35' height='27'/>
+    <box top='191' left='911' width='37' height='29'/>
+    <box top='178' left='1029' width='39' height='27'/>
+    <box top='485' left='235' width='32' height='28'/>
+    <box top='480' left='352' width='36' height='31'/>
+    <box top='599' left='562' width='38' height='33'/>
+    <box top='578' left='703' width='40' height='36'/>
+    <box top='575' left='851' width='41' height='35'/>
+    <box top='610' left='1008' width='43' height='37'/>
+  </image>
+</images>
+</dataset>
